@@ -1,5 +1,5 @@
 # BottomNavigationSample
-![스크린샷 2023-03-14 오후 3 39 28](https://user-images.githubusercontent.com/13194334/224917229-e8585e87-4b0e-423a-84f0-0c3a1851d1e5.png)
+![스크린샷 2023-03-14 오후 3 39 28](https://user-images.githubusercontent.com/13194334/224917229-e8585e87-4b0e-423a-84f0-0c3a1851d1e5.png).  
 0. 위 디렉토리 구조를 따라 아래 1~5번을 순서대로 실행하면 됩니다.
 1. Home, Profile, Settings
 ```Kotlin
