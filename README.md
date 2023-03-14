@@ -236,3 +236,6 @@ fun MainScreenPreview() {
     }
 }
 ```
+![스크린샷 2023-03-14 오후 3 44 24](https://user-images.githubusercontent.com/13194334/224917558-4756fa94-6ab2-4d95-a3cd-a84875820226.png)
+
+
